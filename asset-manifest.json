@@ -1,12 +1,14 @@
 {
   "files": {
     "main.css": "/Piyush-Kumar-Singh/static/css/main.9e17df6b.css",
-    "main.js": "/Piyush-Kumar-Singh/static/js/main.d7316bf6.js",
+    "main.js": "/Piyush-Kumar-Singh/static/js/main.661b0ae0.js",
     "static/js/787.5b604dc6.chunk.js": "/Piyush-Kumar-Singh/static/js/787.5b604dc6.chunk.js",
     "static/media/video.mp4": "/Piyush-Kumar-Singh/static/media/video.fccbfd71e7ba82dc140b.mp4",
     "static/media/background.png": "/Piyush-Kumar-Singh/static/media/background.a7d5c6cd42eaed11c9f6.png",
+    "static/media/compressor.mp4": "/Piyush-Kumar-Singh/static/media/compressor.875e24107e0ab46b3f64.mp4",
     "static/media/fooddost-mockup-desktop.png": "/Piyush-Kumar-Singh/static/media/fooddost-mockup-desktop.65400b46aba634301ebc.png",
     "static/media/background-3.png": "/Piyush-Kumar-Singh/static/media/background-3.999ee8c703d92af7d8ab.png",
+    "static/media/invoice.mp4": "/Piyush-Kumar-Singh/static/media/invoice.5e526ec47115b4be6e27.mp4",
     "static/media/fooddostmockup-phone.png": "/Piyush-Kumar-Singh/static/media/fooddostmockup-phone.d55a8c42a4c901a6491d.png",
     "static/media/background-2.png": "/Piyush-Kumar-Singh/static/media/background-2.b909b555a29eb783cfe6.png",
     "static/media/SpaceGrotesk-Regular.ttf": "/Piyush-Kumar-Singh/static/media/SpaceGrotesk-Regular.3683ead52440efaeba4d.ttf",
@@ -22,11 +24,11 @@
     "index.html": "/Piyush-Kumar-Singh/index.html",
     "static/media/Vector.svg": "/Piyush-Kumar-Singh/static/media/Vector.60230d80f964c6f89a3a7c6637421890.svg",
     "main.9e17df6b.css.map": "/Piyush-Kumar-Singh/static/css/main.9e17df6b.css.map",
-    "main.d7316bf6.js.map": "/Piyush-Kumar-Singh/static/js/main.d7316bf6.js.map",
+    "main.661b0ae0.js.map": "/Piyush-Kumar-Singh/static/js/main.661b0ae0.js.map",
     "787.5b604dc6.chunk.js.map": "/Piyush-Kumar-Singh/static/js/787.5b604dc6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e17df6b.css",
-    "static/js/main.d7316bf6.js"
+    "static/js/main.661b0ae0.js"
   ]
 }
