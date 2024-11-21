@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/Piyush-Kumar-Singh/static/css/main.9e17df6b.css",
-    "main.js": "/Piyush-Kumar-Singh/static/js/main.b4505fa0.js",
+    "main.css": "/Piyush-Kumar-Singh/static/css/main.1be7b474.css",
+    "main.js": "/Piyush-Kumar-Singh/static/js/main.aeab7205.js",
     "static/js/787.5b604dc6.chunk.js": "/Piyush-Kumar-Singh/static/js/787.5b604dc6.chunk.js",
+    "static/media/note-web.mp4": "/Piyush-Kumar-Singh/static/media/note-web.77ab40107f852ad16fdd.mp4",
     "static/media/video.mp4": "/Piyush-Kumar-Singh/static/media/video.fccbfd71e7ba82dc140b.mp4",
     "static/media/background.png": "/Piyush-Kumar-Singh/static/media/background.a7d5c6cd42eaed11c9f6.png",
     "static/media/compressor.mp4": "/Piyush-Kumar-Singh/static/media/compressor.875e24107e0ab46b3f64.mp4",
@@ -17,18 +18,17 @@
     "static/media/Gilroy-ExtraBold.otf": "/Piyush-Kumar-Singh/static/media/Gilroy-ExtraBold.0094146a0505298ed06a.otf",
     "static/media/Gridular-Regular.otf": "/Piyush-Kumar-Singh/static/media/Gridular-Regular.bc95c4915f576d594c01.otf",
     "static/media/Gilroy-Light.otf": "/Piyush-Kumar-Singh/static/media/Gilroy-Light.cc7ab55d27205bd64001.otf",
-    "static/media/Piyush-Kumar-Singh-Resume.pdf": "/Piyush-Kumar-Singh/static/media/Piyush-Kumar-Singh-Resume.0208c09b209497409fe7.pdf",
     "static/media/logo.png": "/Piyush-Kumar-Singh/static/media/logo.bd1d72d2f3e4e7d74f87.png",
-    "static/media/Webimp.jpeg": "/Piyush-Kumar-Singh/static/media/Webimp.a9b7402664eb6c804499.jpeg",
+    "static/media/Piyush_Kumar_Singh_SFE.docx": "/Piyush-Kumar-Singh/static/media/Piyush_Kumar_Singh_SFE.ff4518bebfa48754113c.docx",
     "static/media/OPTIVenus-BoldExtended.ttf.woff": "/Piyush-Kumar-Singh/static/media/OPTIVenus-BoldExtended.ttf.b7ad1a13e561c6532e06.woff",
     "index.html": "/Piyush-Kumar-Singh/index.html",
     "static/media/Vector.svg": "/Piyush-Kumar-Singh/static/media/Vector.60230d80f964c6f89a3a7c6637421890.svg",
-    "main.9e17df6b.css.map": "/Piyush-Kumar-Singh/static/css/main.9e17df6b.css.map",
-    "main.b4505fa0.js.map": "/Piyush-Kumar-Singh/static/js/main.b4505fa0.js.map",
+    "main.1be7b474.css.map": "/Piyush-Kumar-Singh/static/css/main.1be7b474.css.map",
+    "main.aeab7205.js.map": "/Piyush-Kumar-Singh/static/js/main.aeab7205.js.map",
     "787.5b604dc6.chunk.js.map": "/Piyush-Kumar-Singh/static/js/787.5b604dc6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e17df6b.css",
-    "static/js/main.b4505fa0.js"
+    "static/css/main.1be7b474.css",
+    "static/js/main.aeab7205.js"
   ]
 }
